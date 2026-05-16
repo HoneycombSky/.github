@@ -2,7 +2,7 @@
 name: Task
 about: Create a task
 title: ""
-labels:
+labels: []
 assignees:
   - CSexton-HS
 ---
