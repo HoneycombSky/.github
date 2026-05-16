@@ -8,13 +8,10 @@ type: Task
 
 ---
 
-**Current Situation**
+## Epic Scope
+* What it covers
 
 
-**Solution**
-
-
-**Detail**
-
-
-**Implementation**
+## Tasks
+* [ ] Do this
+* [ ] Then this

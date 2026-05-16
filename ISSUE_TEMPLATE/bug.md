@@ -8,19 +8,20 @@ type: Bug
 
 ---
 
-**Describe the bug**
+## Bug description
 
 
-**To Reproduce**
+## To reproduce
 
 
-**Expected behaviour**
+## Expected behaviour
 
 
-**Screenshots**
+## Screenshots
 
 
-**Platform/environment/technical details**
+## Technical details
 
 
-**Detail**
+## Other details
+

@@ -8,13 +8,14 @@ type: Task
 
 ---
 
-**Current Situation**
+## Current Situation
+* Describe now
 
 
-**Solution**
+## Solution
+* What the plan is
 
 
-**Detail**
-
-
-**Implementation**
+## Tasks
+* [ ] Do this
+* [ ] Then this
