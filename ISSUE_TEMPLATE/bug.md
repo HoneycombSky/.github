@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: BugX
 about: Create a bug report
 title: ''
 labels: ''

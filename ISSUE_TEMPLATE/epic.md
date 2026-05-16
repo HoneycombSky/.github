@@ -1,5 +1,5 @@
 ---
-name: Epic
+name: EpicX
 about: Create an epic
 title: ''
 labels: 'task: epic'

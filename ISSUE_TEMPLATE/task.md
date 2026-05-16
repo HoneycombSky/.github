@@ -1,5 +1,5 @@
 ---
-name: Task
+name: TaskX
 about: Create a Task
 title: ''
 labels: 'task: technical debt'

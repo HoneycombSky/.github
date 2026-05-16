@@ -1,5 +1,5 @@
 ---
-name: Feature
+name: FeatureX
 about: Describe a new feature
 title: ''
 labels: ''
