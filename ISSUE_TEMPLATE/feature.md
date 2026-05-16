@@ -1,20 +1,18 @@
 ---
-name: FeatureX
+name: Feature
 about: Describe a new feature
-title: ''
-labels: ''
-assignees: CSexton-HS
-type: Feature
-
+title: ""
+labels:
+  - "type: feature"
+assignees:
+  - CSexton-HS
 ---
 
 ## Current Situation
 * Describe now
 
-
 ## Solution
 * What the plan is
-
 
 ## Tasks
 * [ ] Do this
